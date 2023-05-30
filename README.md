@@ -1,8 +1,12 @@
 # FacturacionElectronica
 Aplicacion de facturacion electronica
 
-Desarrollado por
+Desarrollado por:
+
 -Anahi Naranjo Lopez
+
 -Diana Pinchao
+
 -Silvia Villacres
+
 -Jessica Tituaña
