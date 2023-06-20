@@ -1,0 +1,5 @@
+> Instalar los paquietes necesarios que no se cargan en el GitHub
+> Ingresar por terminal a donde esta la aplicacion [en este caso en la carpeta Frontend]
+ >npm install
+> Inicialiizar el Proyectos
+ >npm start
